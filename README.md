@@ -25,8 +25,8 @@ I believe I'll one day create an application that makes a real impact on society
 ## 🚀 Projects
 - [CodeChat App](https://github.com/S0ldierBoy/Code-chat) — a real-time chat built with React and WebSockets.
 - [RSS-Agregator](https://github.com/S0ldierBoy/RSS-agregator) - fetches and displays latest posts from multiple RSS feeds.
-- [Gendiff](https://github.com/S0ldierBoy/Gendiff) - shows human-readable differences between two files.
 - [Brain-games](https://github.com/S0ldierBoy/brain-games) - console games to sharpen logic and train your mind.
+- [Gendiff](https://github.com/S0ldierBoy/Gendiff) - shows human-readable differences between two files.
 <!--
 **S0ldierBoy/S0ldierBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
