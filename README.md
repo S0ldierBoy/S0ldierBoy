@@ -25,9 +25,9 @@ Frontend-Developer (React)
 
 ## 🚀 Projects
 - [CodeChat App](https://github.com/S0ldierBoy/Code-chat) — a real-time chat built with React and WebSockets.
-- [RSS-Agregator](https://github.com/S0ldierBoy/RSS-agregator) - an app that fetches and displays the latest content from multiple RSS feeds in one place.
-- [Gendiff](https://github.com/S0ldierBoy/Gendiff) - utility that shows human-readable differences between two files.
-- [Brain-games](https://github.com/S0ldierBoy/brain-games) - a set of console games to train your mind and boost logical thinking.
+- [RSS-Agregator](https://github.com/S0ldierBoy/RSS-agregator) - fetches and displays latest posts from multiple RSS feeds.
+- [Gendiff](https://github.com/S0ldierBoy/Gendiff) - shows human-readable differences between two files.
+- [Brain-games](https://github.com/S0ldierBoy/brain-games) - console games to sharpen logic and train your mind.
 <!--
 **S0ldierBoy/S0ldierBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
