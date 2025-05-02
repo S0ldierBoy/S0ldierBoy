@@ -1,14 +1,13 @@
-Hi 👋 My name is Nick
-=====================
+# Hi 👋 My name is Nick
 
-Frontend-Developer (React)
---------------------------
+💻 Frontend Developer · 🧠 Focused on **React** · ❤️ Passionate about building meaningful products  
 
-💻 Frontend Developer | ⚛️ Focused on React | ❤️ Passionate about building meaningful products I believe I’ll one day create an application that makes a real impact on society. Always learning, striving for clean code and thoughtful interfaces.
+I believe I'll one day create an application that makes a real impact on society. Always learning, striving for clean code and thoughtful interfaces.
 
-* 🌍  I'm based in Alicante / Saint-Petersburg
-* ✉️  You can contact me at [legendry.sh0wtime@gmail.com](mailto:legendry.sh0wtime@gmail.com )
-* 🧠 I'm constantly learning and improving my React skills
+- 🌍 Based in **Alicante / Saint-Petersburg**  
+- ✉️ You can contact me at [legendry.sh0wtime@gmail.com](mailto:legendry.sh0wtime@gmail.com)  
+- 🧠 Constantly improving my React & TypeScript skills  
+
 
 ### Skills
 
