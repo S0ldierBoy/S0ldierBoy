@@ -8,7 +8,7 @@ Frontend-Developer (React)
 
 * 🌍  I'm based in Alicante / Saint-Petersburg
 * ✉️  You can contact me at [legendry.sh0wtime@gmail.com](mailto:legendry.sh0wtime@gmail.com )
-* 🧠  I'm learning improving my skills in React
+* 🧠 I'm constantly learning and improving my React skills
 
 ### Skills
 
